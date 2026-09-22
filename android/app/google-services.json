@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596980729578",
+    "project_id": "barcode-qrcode-hotline",
+    "storage_bucket": "barcode-qrcode-hotline.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596980729578:android:20d8d5fff628c536ffb993",
+        "android_client_info": {
+          "package_name": "com.yt.qr_barcode_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwHTmicwNz76qCy0IHByU-GTeVIOeMlXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

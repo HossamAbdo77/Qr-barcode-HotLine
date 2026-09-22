@@ -1,0 +1,38 @@
+name: qr_barcode_tutorial
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.5
+  flutter_svg: ^2.0.17
+  qr_flutter: ^4.1.0
+  barcode: ^2.2.9
+  qr_code_scanner_plus: ^2.0.10+1
+  simple_barcode_scanner: ^0.3.0
+  firebase_core: ^3.12.1
+  cloud_firestore: ^5.6.5
+
+  cupertino_icons: ^1.0.8
+  printing: ^5.14.3
+  screenshot: ^3.0.0
+  share_plus: ^12.0.2
+  intl: ^0.19.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/LOGO.png
